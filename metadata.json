@@ -1,0 +1,8 @@
+{
+  "name": "ỨNG DỤNG HỌC TẬP THÔNG MINH",
+  "description": "Được tạo và phát triển bởi Phùng Thanh AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
